@@ -18,7 +18,7 @@ expose:
     exposer: Ingress
     http: "true"
 global:
-   env: production
+  env: production
 jenkins:
   Servers:
     Global:
