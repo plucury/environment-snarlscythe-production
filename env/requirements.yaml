@@ -13,3 +13,6 @@ dependencies:
 - name: qs3-cron
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.39
+- name: wf-service-pdf-converter
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.5
