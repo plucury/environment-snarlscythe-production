@@ -22,3 +22,6 @@ dependencies:
 - name: wf-service-pdf-signer
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.6
+- name: wf-service-pdf-validator
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
