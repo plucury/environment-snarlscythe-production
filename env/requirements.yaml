@@ -24,4 +24,4 @@ dependencies:
   version: 0.0.10
 - name: wf-service-pdf-validator
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.10
+  version: 0.0.11
